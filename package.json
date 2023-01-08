@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.93.75.90:8181/ishglodevops/repository/ishglodevops-npm-repo/"
+    "registry": "http://172.31.67.61:8181/ishglodevops/repository/ishglodevops-npm-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
